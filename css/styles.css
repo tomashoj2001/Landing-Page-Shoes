@@ -164,48 +164,48 @@ body{
     text-decoration: none;
     border: goldenrod 0.1rem solid;
     border-radius: 15px;
-    background-image: url(/image/Gallery1.jpg);
+    background-image: url(image/Gallery1.jpg);
     background-size: cover;
     background-position: bottom 50% left 20%;
 }
 
 .gallery__picture:nth-child(2){
-    background-image: url(/image/Gallery2.jpg);
+    background-image: url(image/Gallery2.jpg);
     background-position: center center;
 }
 
 .gallery__picture:nth-child(3){
-    background-image: url(/image/Gallery3.jpg);
+    background-image: url(image/Gallery3.jpg);
     background-position: bottom 20% left;
 }
 
 .gallery__picture:nth-child(4){
-    background-image: url(/image/Gallery4.jpg);
+    background-image: url(image/Gallery4.jpg);
     background-position: top 42% right;
 }
 
 .gallery__picture:nth-child(5){
-    background-image: url(/image/Gallery5.jpg);
+    background-image: url(image/Gallery5.jpg);
     background-position: center center;
 }
 
 .gallery__picture:nth-child(6){
-    background-image: url(/image/Gallery6.jpg);
+    background-image: url(image/Gallery6.jpg);
     background-position: center center;
 }
 
 .gallery__picture:nth-child(7){
-    background-image: url(/image/Gallery7.jpg);
+    background-image: url(image/Gallery7.jpg);
     background-position: center center;
 }
 
 .gallery__picture:nth-child(8){
-    background-image: url(/image/Gallery8.jpg);
+    background-image: url(image/Gallery8.jpg);
     background-position: center center;
 }
 
 .gallery__picture:nth-child(9){
-    background-image: url(/image/Gallery9.jpg);
+    background-image: url(image/Gallery9.jpg);
     background-position: center center;
 }
 
@@ -266,7 +266,7 @@ body{
     width: 95%;
     height: 95%;
     position: relative;
-    background-image: url(/image/Gallery1.jpg);
+    background-image: url(image/Gallery1.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
@@ -274,15 +274,15 @@ body{
 }
 
 .show--n2{
-    background-image: url(/image/Gallery2.jpg);
+    background-image: url(image/Gallery2.jpg);
 }
 
 .show--n3{
-    background-image: url(/image/Gallery3.jpg);
+    background-image: url(image/Gallery3.jpg);
 }
 
 .show--n4{
-    background-image: url(/image/Gallery4.jpg);
+    background-image: url(image/Gallery4.jpg);
 }
 
 .show--n5{
@@ -290,19 +290,19 @@ body{
 }
 
 .show--n6{
-    background-image: url(/image/Gallery6.jpg);
+    background-image: url(image/Gallery6.jpg);
 }
 
 .show--n7{
-    background-image: url(/image/Gallery7.jpg);
+    background-image: url(image/Gallery7.jpg);
 }
 
 .show--n8{
-    background-image: url(/image/Gallery8.jpg);
+    background-image: url(image/Gallery8.jpg);
 }
 
 .show--n9{
-    background-image: url(/image/Gallery9.jpg);
+    background-image: url(image/Gallery9.jpg);
 }
 
 .show__close{
